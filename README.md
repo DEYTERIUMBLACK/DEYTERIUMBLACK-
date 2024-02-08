@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramal Valiyev</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I dont care about how its going</h3>
 
 - 🌱 I’m currently learning **Dart and Flutter**
 
