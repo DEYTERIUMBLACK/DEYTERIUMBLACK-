@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vrasdasd707@gmail.com**
 
-- ⚡ Fun fact **I dont like weekend (@elnurxo)**
+- ⚡ Fun fact **I dont like wekend (@elnurxo)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
